@@ -28,7 +28,6 @@ header {
 
 header,
 section {
-  border: 1px solid red;
   max-width: 300px;
   margin: 0 auto;
 }
